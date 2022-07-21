@@ -245,10 +245,6 @@
       style: basic
       url: https://cn.udacity.com/
 
-    - name: ✞赞美诗✞
-      style: black
-      url: https://www.zanmeishige.com/
-
   - name: 娱 乐
     links:
     - name: ⢰优酷
@@ -493,10 +489,9 @@
       style: basic
       url: http://pt.fuyinchina.com/m/
       
-    - name: Fast
-      icon: apple app
-      style: red
-      url: https://fast.com/
+    - name: ✞赞美诗✞
+      style: black
+      url: https://www.zanmeishige.com/
 
     - name: Apkmirror
       style: orange
