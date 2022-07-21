@@ -31,9 +31,9 @@
       style: basic
       url: http://www.dangdang.com/
 
-     - name: 严选
-       style: basic
-       url: http://you.163.com/
+    - name: 严选
+      style: basic
+      url: http://you.163.com/
 
     - name: UNIQLO
       style: red
@@ -268,7 +268,7 @@
       style: basic
       url: https://v.qq.com/
       
-     - name: 咪咕视频
+    - name: 咪咕视频
       style: pink
       url: https://pink.miguvideo.com/
 
@@ -313,13 +313,13 @@
       style: basic
       url: https://www.tokyonothot.com/
 
-     - name: 幻樱
-       style: pink
-       url: http://www.hysub.net/
+    - name: 幻樱
+      style: pink
+      url: http://www.hysub.net/
 
-     - name: 斗鱼
-       style: orange
-       url: https://douyu.com/
+    - name: 斗鱼
+      style: orange
+      url: https://douyu.com/
 
 - categories:
   - name:  校 园
@@ -388,11 +388,11 @@
       
     - name: 📖李 劼文集
       style: basic
-      url: http://blog.bnn.co/hero/lijie/
+      url: http://45.35.61.42/hero/lijie/
       
     - name: 📖刘晓波文集
       style: basic
-      url: https://blog.bnn.co/hero/liuxb/
+      url: http://45.35.61.42/hero/liuxb/
 
     - name: ACL4
       style: basic
@@ -462,9 +462,7 @@
       url: https://www.sojson.com/web/img.html
       
     - name: 🛠工具邦
-
       style: basic
-
       url: https://cn.piliapp.com
 
     - name: 📬微软邮箱
@@ -485,9 +483,9 @@
       style: black
       url: https://play.google.com/
 
-    - name: 💒福音中国†
+    - name: 💒王五四†
       style: basic
-      url: http://pt.fuyinchina.com/m/
+      url: http://wangwusiwj.blogspot.com/?m=1
       
     - name: ✞赞美诗✞
       style: black
