@@ -31,9 +31,9 @@
       style: basic
       url: http://www.dangdang.com/
 
-    # - name: 严选
-    #   style: basic
-    #   url: http://you.163.com/
+     - name: 严选
+       style: basic
+       url: http://you.163.com/
 
     - name: UNIQLO
       style: red
@@ -255,10 +255,6 @@
       style: basic
       url: https://youku.com/
 
-    # - name: 土豆
-    #   style: basic
-    #   url: https://tudou.com/
-
     - name: Youtube
       icon: youtube red
       style: basic
@@ -275,6 +271,10 @@
     - name: 腾讯视频
       style: basic
       url: https://v.qq.com/
+      
+     - name: 咪咕视频
+      style: pink
+      url: https://pink.miguvideo.com/
 
     - name: 哔哩哔哩
       style: pink
@@ -305,13 +305,13 @@
       style: blue
       url: http://wanwansub.com/node/139
 
-    - name: 人人
-      style: blue
-      url: http://www.yyetss.com/
+    - name: NEW
+      style: basic
+      url: https://newzmz.com/tvslist.html
 
-    # - name: 电波
-    #   style: basic
-    #   url: http://dbfansub.com/
+    - name: 阿哥
+      style: orange
+      url: https://agmov.com/
 
     - name: 猪猪
       style: purple
@@ -321,17 +321,13 @@
       style: basic
       url: https://www.tokyonothot.com/
 
-    - name: 追新番
-      style: yellow
-      url: http://www.zhuixinfan.com/
+     - name: 幻樱
+       style: pink
+       url: http://www.hysub.net/
 
-    # - name: 幻樱
-    #   style: pink
-    #   url: http://www.hysub.net/
-
-    - name: 斗鱼
-      style: orange
-      url: https://douyu.com/
+     - name: 斗鱼
+       style: orange
+       url: https://douyu.com/
 
 - categories:
   - name:  校 园
